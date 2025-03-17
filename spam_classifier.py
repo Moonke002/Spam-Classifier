@@ -1,4 +1,4 @@
-#Name: Brayden Aubry
+#Name: Brayden
 #Project: Spam Email/SMS Classifier
 #Date: 3/17/2025
 
