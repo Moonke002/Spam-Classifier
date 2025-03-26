@@ -1,4 +1,8 @@
+## Summary
+
 A simple machine learning-based spam classifier using Python and Scikit-Learn.
+
+## Steps
 
 1. Clone this repository: https://github.com/Moonke002/Spam-Classifier.git
 
@@ -9,5 +13,8 @@ A simple machine learning-based spam classifier using Python and Scikit-Learn.
 4. Run the script: python spam_classifier.py
    
 
+## Notes
+
+Uses a sample database.
 
 This project is open-source under the MIT License
